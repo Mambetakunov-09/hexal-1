@@ -1,0 +1,135 @@
+@media (max-width: 2000px){}
+@media (max-width: 1200px){}
+@media (max-width: 992px){}
+@media (max-width: 760px){}
+@media (max-width: 576px){
+    .logo-img {
+        margin: 0;
+    }
+    .menu-list{
+        margin-right: 10px;
+    }
+    #portfolio{
+        padding: 10px 0;
+    }
+    #portfolio:before {
+        width: 90px;
+        top: 12px;
+        left: 215px;
+    }
+    #portfolio:after {
+        width: 90px;
+        top: 12px;
+        right: 215px;
+    }
+    .hexagon{
+        width: 65px;
+        margin-right: 2px;
+    }
+    .row:after{
+        height: 57px;
+        top: 75px;
+        right: 68px;
+    }
+    .row:before{
+        height: 57px;
+        top: 75px;
+        left: 65px;
+    }
+    .row-1{
+        margin-top: -149px;
+    }
+    .row-2{
+        margin-top: -149px;
+    }
+    .row-2:before {
+        height: 57px;
+        top: 75px;
+        left: 65px;
+    }
+    .row-2:after {
+        height: 57px;
+        top: 75px;
+        right: 68px;
+    }
+    #about-me:before{
+        width: 330px;
+    }
+    .owl-theme .owl-dots {
+        bottom: 2px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        text-align: center;
+    }
+    .owl-theme .owl-dots .owl-dot span {
+        width: 8px;
+        height: 8px;
+        margin: 5px 3px;
+    }
+    #about-me{
+        padding: 40px 0;
+        text-align: center;
+    }
+    .about-all{
+        display: block;
+        margin: 0;
+    }
+    .hexagon-1{
+        display: flex;
+        margin: 0 auto;
+    }
+    .about-title {
+        font-size: 25px;
+    }
+    .about-text {
+        font-size: 15px;
+    }
+    .about-text-bottom {
+        margin-top: 10px;
+    }
+    .icon-list-hex {
+        display: flex;
+        justify-content: center;
+    }
+    .social-media {
+        margin-top: 20px;
+        margin-right: 0;
+        float: none;
+    }
+    .form-all {
+        display: block;
+    }
+    .hex-touch {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    .hex-form-title {
+        font-size: 25px;
+        text-align: center;
+    }
+    .hex-form-contact {
+        font-size: 15px;
+        text-align: center;
+    }
+    .submit-button {
+        padding: 8px 22px;
+    }
+    .form-text-right {
+         width: inherit;
+         margin-right: 0;
+        padding-top: 57px;
+    }
+    .form-text-title {
+        line-height: 18px;
+        word-spacing: 4px;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .form-location li {
+        margin-left: 10px;
+    }
+    .footer-title{
+        text-align: center;
+    }
+}
